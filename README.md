@@ -8,7 +8,10 @@ With built-in error handling, the calculator can determine whether a system of e
 Inorder to use the calculator clone the repository from github, and write the system of equations in the format:
 
 
-Row Col
+Row 
+
+
+Col
 
 ... ...
 
