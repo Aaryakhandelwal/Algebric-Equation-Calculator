@@ -10,13 +10,11 @@ Inorder to use the calculator clone the repository from github, and write the sy
 
 Row Col
 
+... ...
 
 ... ...
 
 
-... ...
+(Write the coefficients of the equations in matrix-format)
 
-
-(Write the coefficients of the equations matrix-format)
-
-The output and the errors and shown on the terminal.
+The output and the errors are shown on the terminal.
