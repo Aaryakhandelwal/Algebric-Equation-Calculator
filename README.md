@@ -10,7 +10,6 @@ Inorder to use the calculator clone the repository from github, and write the sy
 
 Row 
 
-
 Col
 
 ... ...
